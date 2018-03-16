@@ -14,13 +14,6 @@
 	<natures>
 		<nature>com.aptana.projects.webnature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>img/WechatIMG149.png</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/WechatIMG149.png</locationURI>
-		</link>
-	</linkedResources>
 	<filteredResources>
 		<filter>
 			<id>1516847085227</id>
